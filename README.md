@@ -1,0 +1,13 @@
+# qssi-user 10 QKQ1.191222.002 1592241852 release-keys
+- manufacturer: meizu
+- platform: sdm710
+- codename: 16X
+- flavor: qssi-user
+- release: 10
+- id: QKQ1.191222.002
+- incremental: 1592241852
+- tags: release-keys
+- fingerprint: meizu/qssi/qssi:10/QKQ1.191222.002/1592241852:user/release-keys
+- brand: Meizu
+- branch: qssi-user-10-QKQ1.191222.002-1592241852-release-keys
+- repo: meizu_16x_dump
