@@ -1,0 +1,6 @@
+service mediahardwaremanager /system/bin/mediahardwaremanager
+    class main
+    user media
+    group drmrpc mediadrm sdcard_rw readproc
+    ioprio rt 4
+    writepid /dev/cpuset/foreground/tasks
